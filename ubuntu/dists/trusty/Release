@@ -1,0 +1,19 @@
+Origin: Andrew Chen
+Label: Andrew Chen
+Codename: trusty
+Date: Thu, 14 Aug 2014 10:19:53 UTC
+Architectures: amd64
+Components: main
+Description: Andrew Chen
+MD5Sum:
+ 259ce001fe4120a9d6f1c660c90a45a8 1737 main/binary-amd64/Packages
+ 1c33b8839c22b9793e09be608098fbe5 945 main/binary-amd64/Packages.gz
+ 3c7523fa7a1a1a4598a634a16c99a7b1 100 main/binary-amd64/Release
+SHA1:
+ c4e6e860d2357a23f55aee55e5e6b5cd5a1c33d1 1737 main/binary-amd64/Packages
+ 99e2f018ec28b337c6e85ddec2b51a50a5cc4c01 945 main/binary-amd64/Packages.gz
+ 78b2eee2c598403c9df3398b9863aa4fc48c51ba 100 main/binary-amd64/Release
+SHA256:
+ d4539612ec3a22c106d0afba485f3bd1cb5f42b8db10d4a03bbd5862bfb7a457 1737 main/binary-amd64/Packages
+ f4f0dc13fcbeb4f844512dc9471a94623370db4f2a9d7a7c22ab19abbb0f1743 945 main/binary-amd64/Packages.gz
+ ce25ceb5cf3ea6e29a4e335549d07f6e5fb0c35dadea79142ea14e55d63a7cd5 100 main/binary-amd64/Release
