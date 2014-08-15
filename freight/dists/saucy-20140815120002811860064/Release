@@ -1,0 +1,27 @@
+Origin: Freight
+Label: Freight
+Suite: saucy
+Codename: saucy
+Components: main 
+Architectures: i386 amd64
+MD5Sum:
+ ad977d7f8350e4020ba303daa113e32e 81 main/binary-i386/Release
+ 79e5225b182ae2825ee9982787bed56b 3486 main/binary-i386/Packages
+ 930d7e811e5e65fcfd4d008cdf1e6b8f 1113 main/binary-i386/Packages.gz
+ a2c8a689e57533fbea29e478327cec01 82 main/binary-amd64/Release
+ 79e5225b182ae2825ee9982787bed56b 3486 main/binary-amd64/Packages
+ 930d7e811e5e65fcfd4d008cdf1e6b8f 1113 main/binary-amd64/Packages.gz
+SHA1:
+ 85cb4537ef2a2b40599e1385c2de87cbb9bd1e09 81 main/binary-i386/Release
+ d7037f30582140f7a71003bdd2197deaccdfe8fe 3486 main/binary-i386/Packages
+ 0bb9ca90b099540be0d48d3f31c141451ecec02d 1113 main/binary-i386/Packages.gz
+ 5472c5931f457386a390d146edb742e3d17ecb74 82 main/binary-amd64/Release
+ d7037f30582140f7a71003bdd2197deaccdfe8fe 3486 main/binary-amd64/Packages
+ 0bb9ca90b099540be0d48d3f31c141451ecec02d 1113 main/binary-amd64/Packages.gz
+SHA256:
+ 1e04c977f67f23c3e954eb85aa790713f0fb726237326786b689fcfcaa9c8581 81 main/binary-i386/Release
+ 29912f13a9afc504a7147700c3c1feda0d122c2024ff93e2d9175ee7f9e0a0f8 3486 main/binary-i386/Packages
+ 41eee3b3e714a5d0b0e296152604e0cdae9a38160a1dcc0f214bb403d7a200b7 1113 main/binary-i386/Packages.gz
+ cbec871f8f6dd09a11bb85113f968f052c3e245f3f4f1fe9f0dfec5999fe5421 82 main/binary-amd64/Release
+ 29912f13a9afc504a7147700c3c1feda0d122c2024ff93e2d9175ee7f9e0a0f8 3486 main/binary-amd64/Packages
+ 41eee3b3e714a5d0b0e296152604e0cdae9a38160a1dcc0f214bb403d7a200b7 1113 main/binary-amd64/Packages.gz

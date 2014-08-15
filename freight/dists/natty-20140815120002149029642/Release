@@ -1,0 +1,27 @@
+Origin: Freight
+Label: Freight
+Suite: natty
+Codename: natty
+Components: main 
+Architectures: i386 amd64
+MD5Sum:
+ ad421d153ae90aaaf2b6abe932168c46 81 main/binary-i386/Release
+ 1691833a1d49f23031d9730fb380ead5 3486 main/binary-i386/Packages
+ 625358e6c65465ce5bb46fb02442a8b3 1114 main/binary-i386/Packages.gz
+ f9efd53b7d574af8c969e5b70f4bf56c 82 main/binary-amd64/Release
+ 1691833a1d49f23031d9730fb380ead5 3486 main/binary-amd64/Packages
+ 625358e6c65465ce5bb46fb02442a8b3 1114 main/binary-amd64/Packages.gz
+SHA1:
+ 2fdf6e4563884122e6e5ccc3dc1b047a8cd478e9 81 main/binary-i386/Release
+ 76ca068626ef83bb49b5195a0053dddc9589ac47 3486 main/binary-i386/Packages
+ e6e5b6abd8783135c3b6a9b205f607230a22aac8 1114 main/binary-i386/Packages.gz
+ 4263f89e092a6788ca5c728f3881677d466f2b0a 82 main/binary-amd64/Release
+ 76ca068626ef83bb49b5195a0053dddc9589ac47 3486 main/binary-amd64/Packages
+ e6e5b6abd8783135c3b6a9b205f607230a22aac8 1114 main/binary-amd64/Packages.gz
+SHA256:
+ 3522fe4b802e606cf4ee67e83ee40c46c362fc8ba4553367d192a62ef0ad05d7 81 main/binary-i386/Release
+ 8b362069e5251176089f427c42c039309623070076fbe7f63b9201461b80cb1f 3486 main/binary-i386/Packages
+ f484f81ec630be8870f7d2a69d40f4335e49feb3a73266daa6a2640d2199fb67 1114 main/binary-i386/Packages.gz
+ aa43037c74fc5d38b93cf2e416e294286925828865fef3684dcdabbfe51af293 82 main/binary-amd64/Release
+ 8b362069e5251176089f427c42c039309623070076fbe7f63b9201461b80cb1f 3486 main/binary-amd64/Packages
+ f484f81ec630be8870f7d2a69d40f4335e49feb3a73266daa6a2640d2199fb67 1114 main/binary-amd64/Packages.gz

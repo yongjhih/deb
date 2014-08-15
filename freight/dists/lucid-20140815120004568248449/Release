@@ -1,0 +1,27 @@
+Origin: Freight
+Label: Freight
+Suite: lucid
+Codename: lucid
+Components: main 
+Architectures: i386 amd64
+MD5Sum:
+ 68a0a105a126d989b492d569a55ac995 81 main/binary-i386/Release
+ 8f10d9d8fccaad1b6d651a76bf5bea0a 3486 main/binary-i386/Packages
+ 24cf0ee5591b1f9fd1daf52e8dacdad3 1113 main/binary-i386/Packages.gz
+ 07aaab6b42d34b7b73ea976d6637ef76 82 main/binary-amd64/Release
+ 8f10d9d8fccaad1b6d651a76bf5bea0a 3486 main/binary-amd64/Packages
+ 24cf0ee5591b1f9fd1daf52e8dacdad3 1113 main/binary-amd64/Packages.gz
+SHA1:
+ 52c4286b2211025f67616c7fb72e8f1ab70e2557 81 main/binary-i386/Release
+ ccaa818b6caf1500fa80db61afee4a9a7d25c7ae 3486 main/binary-i386/Packages
+ 238b1a9c042bc00ec951c34992f904640af7ad70 1113 main/binary-i386/Packages.gz
+ 0e04d0c9423d962e8fa652bb924fcf59e07c1c82 82 main/binary-amd64/Release
+ ccaa818b6caf1500fa80db61afee4a9a7d25c7ae 3486 main/binary-amd64/Packages
+ 238b1a9c042bc00ec951c34992f904640af7ad70 1113 main/binary-amd64/Packages.gz
+SHA256:
+ e643a184efe204fac677956fd019ac0241e1a28a0e3d29a35afba82467a8e31c 81 main/binary-i386/Release
+ bfadd0c2d3b90ffdea0ec8d46fed051fb2e1b335c1333b16de50516cea3db628 3486 main/binary-i386/Packages
+ 76b6eb010f10cfe6e4d08beabe179a5ab8ddc4bcc4b0ed6604ff4195f32a5bb8 1113 main/binary-i386/Packages.gz
+ 577f92c238952434b9e481cd8463d16a8a5d349576ef53b7e055f69ac659d149 82 main/binary-amd64/Release
+ bfadd0c2d3b90ffdea0ec8d46fed051fb2e1b335c1333b16de50516cea3db628 3486 main/binary-amd64/Packages
+ 76b6eb010f10cfe6e4d08beabe179a5ab8ddc4bcc4b0ed6604ff4195f32a5bb8 1113 main/binary-amd64/Packages.gz
