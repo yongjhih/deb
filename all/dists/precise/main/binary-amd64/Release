@@ -1,0 +1,5 @@
+Origin: . precise
+Label: . precise
+Architecture: amd64
+Archive: precise
+Component: main
